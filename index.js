@@ -12,7 +12,7 @@ function nameToAttributes(names){
   // names =  ['Bobby Smith', 'Sammy Watkins']
   return names.map(function(name){
 
-    debugger
+    // debugger
     // name "Bobby Smith"
 
     let fName = name.split(" ")[0]
